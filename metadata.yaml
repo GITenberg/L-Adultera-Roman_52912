@@ -1,0 +1,35 @@
+_repo: L-Adultera-Roman_52912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Henri Théodore
+    - Fontane, Henri Theodore
+    - Fontane, Teodor
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Theodor_Fontane
+    - http://en.wikipedia.org/wiki/Theodor_Fontane
+description: ''
+gutenberg_issued: '2016-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52912'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- 19th century'
+- !lcsh 'Berlin (Germany) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- GITenberg
+title: 'L''Adultera: Roman'
+url: http://www.gutenberg.org/ebooks/52912
